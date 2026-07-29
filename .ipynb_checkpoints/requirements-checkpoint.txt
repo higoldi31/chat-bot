@@ -4,7 +4,3 @@ matplotlib
 scikit-learn
 streamlit
 seaborn
-pickle
-nltk
-string
-joblib
