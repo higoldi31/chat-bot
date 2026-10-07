@@ -6,9 +6,7 @@ The project demonstrates a complete beginner-friendly NLP workflow — from text
 
 ## 🚀 Live Demo
 
-👉 **[Try the Chatbot Live](https://chatbot-goldi-kumari.streamlit.app/)**
-
-> Replace `YOUR_LIVE_LINK_HERE` with your deployed Streamlit application URL.
+https://chatbot-goldi-kumari.streamlit.app/
 
 ## 📌 Features
 
